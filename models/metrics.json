@@ -1,0 +1,25 @@
+{
+  "best_model": "Gradient Boosting (final)",
+  "best_params": {
+    "subsample": 0.7,
+    "n_estimators": 500,
+    "min_samples_leaf": 5,
+    "max_depth": 4,
+    "learning_rate": 0.05
+  },
+  "cv_r2": 0.9734,
+  "residual_q10": -1.4690484382630877,
+  "residual_q90": 1.6034207917127763,
+  "results": {
+    "Linear Regression (baseline)": {
+      "R2": 0.9376,
+      "MAE": 1.551,
+      "RMSE": 2.113
+    },
+    "Gradient Boosting (final)": {
+      "R2": 0.9692,
+      "MAE": 0.979,
+      "RMSE": 1.483
+    }
+  }
+}

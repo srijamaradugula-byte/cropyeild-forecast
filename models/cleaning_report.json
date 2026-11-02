@@ -1,0 +1,14 @@
+{
+  "rows_raw": 3040,
+  "missing_before": {
+    "Soil_Type": 122,
+    "Rainfall_mm": 122,
+    "Humidity_pct": 121,
+    "Fertilizer_kg_acre": 123,
+    "NDVI_mid_season": 122
+  },
+  "duplicates_removed": 40,
+  "wrong_entries_fixed": 20,
+  "yield_outliers_removed": 15,
+  "rows_clean": 2985
+}
